@@ -12,6 +12,7 @@ Requirements:
 - PIP 
     - Clint     (```pip install clint```)
     - requests  (```pip install requests```)
+    
 Modify config.py to add your plex.auth details (server and token)
 Plex token guide: https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
 
