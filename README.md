@@ -1,3 +1,6 @@
+# TV TIME HAS CLOSED THEIR API - THIS TOOL WILL NO LONGER WORK
+![image](https://user-images.githubusercontent.com/1765794/124562979-d6b43a00-de69-11eb-8f0c-2bb9d766db33.png)
+
 # plex-tvtime-agent - Syncing both ways
 Script for loading Plex into TvTime and TvTime into Plex.
 
